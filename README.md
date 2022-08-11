@@ -1,1 +1,1 @@
-Simple shell task
+This is simple shell project

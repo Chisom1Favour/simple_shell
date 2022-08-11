@@ -1,6 +1,6 @@
 B.\"Manpage for simple shell 
 
-.\"Created by Nwabueze Franklin et Asiwaju Ifeoluwa
+.\"Authored by Chisom Ngabuozor.
 .TH HSH 1 "June 2022" "ALX Africa" "SHELL - Simple Shell man page"
 
 .SH NAME
@@ -8,9 +8,6 @@ hsh\fR \- simple UNIX command interpreter
 
 .SH SYNOPSIS
 soda\fR [\fIfilename\fR]
-
-.SH COPYRIGHT
-hsh is Copyright (C) 2022 by Nwabueze Franklin and Ifeoluwa Asiwaju
 
 .SH DESCRIPTION
 hsh\fR is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
